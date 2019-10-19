@@ -6,10 +6,13 @@ Pre-Requisites
 Install Python 3, Virtualenv.
 
 
+
+
 Linux, OS X, Cygwin
 --------------
     chmod +x /path/to/setup.sh
     Run `./setup.sh`
+	
 
 Windows
 --------------
@@ -25,5 +28,12 @@ ACCESS
 Client:
 http://localhost:5000/index.html` 
 
-username: almighty
-password
+
+
+
+MORE INFO:
+
+	setup.sh:
+	---------
+	virtualenv venv
+	pip install -r requirements.txt
