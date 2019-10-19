@@ -8,7 +8,7 @@ Install Python 3, Virtualenv.
 
 Linux, OS X, Cygwin
 --------------
-    chmod +x /path/to/yourscript.sh
+    chmod +x /path/to/setup.sh
     Run `./setup.sh`
 
 Windows
